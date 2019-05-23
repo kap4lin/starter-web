@@ -19,3 +19,7 @@ This is a simple web project, deployment ...
 
 
 ## How to contribute
+
+### Copyright
+
+Git.Training.
