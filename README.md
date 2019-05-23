@@ -20,6 +20,8 @@ This is a simple web project, deployment ...
 
 ## How to contribute
 
+Please fork this repository and then issue Pull Request.
+
 ### Copyright
 
 Git.Training.
